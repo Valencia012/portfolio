@@ -39,9 +39,9 @@ class HomeIndex extends React.Component {
                         <p>Today is going to be a GREAT DAY so lets make the best of it and be Blessed  and have fun while doing it!
                             Learning how to build a portfolio.....  
                         </p>
-                        <ul className="actions">
+                        {/* <ul className="actions">
                             <li><a href="#" className="button">Learn More</a></li>
-                        </ul>
+                        </ul> */}
                     </section>
 
                     <section id="two">
@@ -54,11 +54,11 @@ class HomeIndex extends React.Component {
                             description
                         }))} />
 
-                        <ul className="actions">
+                        {/* <ul className="actions">
                             <li><a href="#" className="button">Full Portfolio</a></li>
-                        </ul>
+                        </ul> */}
                     </section>
-
+{/* 
                     <section id="three">
                         <h2>Get In Touch</h2>
                         <p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
@@ -94,7 +94,7 @@ class HomeIndex extends React.Component {
                                 </ul>
                             </div>
                         </div>
-                    </section>
+                    </section> */}
 
                 </div>
 
